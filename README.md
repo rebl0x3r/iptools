@@ -17,6 +17,7 @@
 <h2>Table Of Contents</h2>
 
 * [General Information](#general-info)
+* [Preview](#preview)
 * [Installation](#installation)
 * [Disclaimer](#disclaimer)
 * [Credits](#credits)
@@ -34,6 +35,11 @@
   This tool requires a domain list, for example google.com, then it will get the IP and saves it to a text file.
   
 <hr>
+
+<h2>Preview</h2>
+<p center="align">
+  <img alt="Showcase" src="https://i.ibb.co/8jw7VLV/2021-02-04-15-03.png">
+</p>
 
 <h2>Installation</h2>
 
@@ -56,7 +62,7 @@
     
 <h3>Windows</h3>
 
-  For windows, we need python aswell you can donwload it from here:<br>
+  For windows, we need python aswell you can download it from here:<br>
   
   
   * [Python (3.8.7 | 64bit)](https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe)
