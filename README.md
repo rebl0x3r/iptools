@@ -1,5 +1,3 @@
-# domain2ip
-
 <p align="center">
   🌐 Domain to IP lookup | Fast ⚡️<br><br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rebl0x3r/domain2ip">
@@ -132,4 +130,4 @@
 
 
 
-[Site Up](#domain2ip)
+[Site Up](#domain-to-ip)
