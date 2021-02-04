@@ -1,6 +1,7 @@
 # domain2ip
-🌐 Domain to IP lookup | Fast ⚡️
+
 <p align="center">
+  🌐 Domain to IP lookup | Fast ⚡️<br><br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rebl0x3r/domain2ip">
   <img alt="Tool version" src="https://img.shields.io/badge/version-1.2-brightgreen">
   <img alt="Errors" src="https://img.shields.io/badge/errors fixed-21-red">
@@ -64,20 +65,20 @@
   
   **How to open the installed Burp Suite Pro?**
 
-  <img alt="1. Step" src="https://img.shields.io/badge/Step-1-blueviolet"/> Install Python
+  <img alt="1. Step" src="https://img.shields.io/badge/Step-1-blueviolet" /> Install Python
   
-  <img alt="2. Step" src="https://img.shields.io/badge/Step-2-blueviolet"/> Download Script (ZIP)
+  <img alt="2. Step" src="https://img.shields.io/badge/Step-2-blueviolet" /> Download Script (ZIP)
   
-  <img alt="3. Step" src="https://img.shields.io/badge/Step-3-blueviolet"/> Extract & Go Inside Folder
+  <img alt="3. Step" src="https://img.shields.io/badge/Step-3-blueviolet" /> Extract & Go Inside Folder
   
-   <img alt="4. Step" src="https://img.shields.io/badge/Step-4-blueviolet"/> Press and hold <code>Shift</code> key and <code>right click</code> on the screen.
+   <img alt="4. Step" src="https://img.shields.io/badge/Step-4-blueviolet" /> Press and hold <code>Shift</code> key and <code>right click</code> on the screen.
    
-   <img alt="5. Step" src="https://img.shields.io/badge/Step-5-blueviolet"/> Click open <code>Command Prompt</code> or <code>Windows Powershell</code> window here.
+   <img alt="5. Step" src="https://img.shields.io/badge/Step-5-blueviolet" /> Click open <code>Command Prompt</code> or <code>Windows Powershell</code> window here.
     
    Paste and run the following command:
    <code> py domain-ip.py </code>
   
-  <img alt="6. Step" src="https://img.shields.io/badge/Step-6-blueviolet"/> Select Your List (Must inside the same folder!)
+  <img alt="6. Step" src="https://img.shields.io/badge/Step-6-blueviolet" /> Select Your List (Must inside the same folder!)
 
 
 <h2>Disclaimer</h2>
