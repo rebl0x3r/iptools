@@ -37,7 +37,7 @@
 <hr>
 
 <h2>Preview</h2>
-<p center="align">
+<p align="center">
   <img alt="Showcase" src="https://i.ibb.co/8jw7VLV/2021-02-04-15-03.png">
 </p>
 
