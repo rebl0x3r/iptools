@@ -42,6 +42,7 @@
   Domain2IP requires <a href="https://www.python.org/">Python </a> v3 to run.
   
   <h3>Linux</h3>
+  
   ```
   $ git clone https://github.com/rebl0x3r/domain2ip.git
   
