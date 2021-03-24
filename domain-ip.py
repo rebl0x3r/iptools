@@ -46,7 +46,7 @@ class Checker:
   def send(self,target):
     ip = target
     try:
-      s = socket.gethostbyname(Hostname)
+      s = socket.gethostbyname(ip)
       return s
     except socket.herror:
       #pass
