@@ -52,6 +52,9 @@ class Checker:
     except socket.herror:
       #pass
       return 'dead'
+    except socket.gaierror:
+      #pass
+      return 'dead'
   
   def check(self):
     global num
