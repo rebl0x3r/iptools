@@ -1,16 +1,16 @@
 <p align="center">
-  🌐 Domain to IP lookup | Fast ⚡️<br><br>
+  🌐 IP Tools | Fast Sh*t ⚡️<br><br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rebl0x3r/iptools">
   <img alt="Tool version" src="https://img.shields.io/badge/version-1.2-brightgreen">
   <img alt="Errors" src="https://img.shields.io/badge/errors fixed-0-red">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/rebl0x3r/domain2ip">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/rebl0x3r/iptools">
   <img alt="Open Source" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
   <a href="https://t.me/mrblackx"><img alt="Ask Me" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
   <img alt="Made With" src="https://forthebadge.com/images/badges/made-with-python.svg">
   <a href="https://t.me/viperzcrewchat/"><img src="https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/chat.svg" alt="Support chat"></a>
 </p>
 
-<h1 align=center>Domain To IP</h1>
+<h1 align=center>IP Tools</h1>
 
 <hr>
 
@@ -28,9 +28,19 @@
 
 <h2>General Information</h2>
   
-  This is an edited version of <a href="https://github.com/dextercyberlab/Domain-to-IP-Converter">Dextercyberlab's</a> Domain to IP tool.
+  One of the tools is an edited version of <a href="https://github.com/dextercyberlab/Domain-to-IP-Converter">Dextercyberlab's</a> Domain to IP tool. The other tools are developed by @MrBlackX.
   
-  If he want me to remove the script, i will do it immediately!
+  To use one of the tools, you need either a domain / url or an IP list.
+  
+  If you have a domain / url list with the format :
+  
+  ```https://xxx.xxx/```
+  
+  Then use the ```formatter.py``` and format the domains. 
+  
+  Outcome = ```domains-formatted.txt```
+  
+  After the ```formatter.py``` start ```domain-ip.py``` and convert the domains to IPs.
   
   This tool requires a domain list, for example google.com, then it will get the IP and saves it to a text file.
   
@@ -43,7 +53,7 @@
 
 <h2>Installation</h2>
 
-  Domain2IP Repo requires <a href="https://www.python.org/">Python </a> v3 to run.
+  IPTools Repo requires <a href="https://www.python.org/">Python </a> v3 to run.
   
   <h3>Linux</h3>
   
@@ -61,7 +71,12 @@
   $ ./domain-ip.py
   $ ./ip-domain.py
   ```
-    
+  Or just run :
+  ```
+  $ python3 formatter.py
+   
+  ```
+ 
 <h3>Windows</h3>
 
   For windows, we need python aswell you can download it from here:<br>
@@ -130,7 +145,7 @@
 
 <h2>Bug Report</h2>
 
-  If you found any bug or issue, please go [here](https://github.com/rebl0x3r/domain2ip/issues)
+  If you found any bug or issue, please go [here](https://github.com/rebl0x3r/iptools/issues)
   
   You can also request an update.
   
