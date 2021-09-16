@@ -76,6 +76,8 @@
   $ python3 formatter.py
    
   ```
+  For further details check the documentation:
+  https://github.com/rebl0x3r/URLer/wiki/URLer
  
 <h3>Windows</h3>
 
